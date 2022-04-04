@@ -10,6 +10,13 @@
 
 # production
 /build
+.vscode
+.env
+.prettierrc
+jsconfig.json
+README.md
+.gitignore
+package-lock.json
 
 # misc
 .DS_Store
